@@ -5,7 +5,7 @@ Webglstudio Demo:
 
 https://webglstudio.org/demo/
 
-Webglstudio Documents (LiteScene, LiteGL, LiteGUI)
+Webglstudio Documents (LiteScene, LiteGL, LiteGUI, LiteGraph)
 
 https://webglstudio.org/doc/
 
