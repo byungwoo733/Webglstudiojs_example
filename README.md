@@ -4,7 +4,8 @@ Appliaction Development Test By Webglstudio_js
 Webglstudio Demo:
 https://webglstudio.org/demo/
 
-
+Webglstudio Documents (LiteScene, LiteGL, LiteGUI)
+https://webglstudio.org/doc/
 
 [Other Development Tool]
 
